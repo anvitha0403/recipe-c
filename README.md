@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://thunderous-brigadeiros-2ccd07.netlify.app/">
       Solution
     </a>
     <span> | </span>
