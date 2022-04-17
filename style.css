@@ -11,13 +11,13 @@ body{
     width: 100%;
     display:flex;
     flex-direction:column;
-  
+  line-height: 1.5;
     align-items: center;
     font-family: Montserrat;
     font-style: normal;
     /* font-weight: 700; */
     font-size: 20px;
-    line-height: 150%;
+   
 }
 .banner-c{
     padding:10px 50px;
@@ -41,6 +41,7 @@ body{
 
 }
 .banner-item-container{
+    font: 10px;
    
   
 }
@@ -117,9 +118,9 @@ h3{
 .banner-item-timing{
     font-family: 'Montserrat';
     font-style: normal;
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 17px;
+    font-weight: 300;
+    font-size: 10px;
+  
 }
 
 .main{
